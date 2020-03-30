@@ -1,0 +1,83 @@
+/* my style sheet */
+body {background-color:lemonchiffon}
+
+h1   {color: black;
+      font-weight: bold;
+      font-size: 36px}
+
+h2   {color:black;
+      font-weight: bold;
+      font-size: 30px}
+
+/* float images */
+#me img {
+	float:left;
+	margin-right: 20px}
+
+#clear1 {clear: left;}
+#claer2 {clear: left;}
+#clear3 {clear: right;}
+#clear4 {clear: left;}
+#clear5 {clear: left;}
+
+#drawing1 img {
+	float: left;
+	margin-right: 20px}
+
+#drawing2 img {
+	float: right;
+	margin-left: 20px}
+
+#cosmos1 img {
+	float: left;
+	margin-right: 20px}
+
+#cosmos2 img {
+	float: right;
+	margin-left: 20px}
+
+#cosmos3 img {
+	float: left;
+	margin-right: 20px}
+
+/* passions menu */
+#Passions {
+  width: 550px;
+  height: 35px;
+  font-size: 15px;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-weight: bold;
+  text-align: center;
+    background-color: lightblue;
+  border-radius: 10px;
+}
+
+#Passions ul {
+	height: auto;
+	padding: 8px 0px}
+
+#Passions li {
+	display: inline;
+	padding: 40px}
+
+#Passions a {
+	text-decoration: none;}
+
+#sitemap1 p {
+	display: inline;
+}
+
+#sitemap2 p {
+	display: inline;
+}
+
+#sitemap2 a {
+	text-decoration: none;}
+
+#sitemap3 a {
+	text-decoration: none;
+}
+
+#feedback p {
+	display: inline;
+}
